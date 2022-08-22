@@ -1,0 +1,77 @@
+#vader {
+    background-color: orange;
+}
+#luk {
+    background-color: green;
+}
+
+
+
+#body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+    display: block;
+    margin: 8px;
+}
+
+#logo {
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    background-color: yellow;
+}
+
+.malos {
+    background-color: red;
+    font-size: 200%;
+}
+
+.rebeldes {
+    background-color: blue;
+    text-align: center;
+    font-size: 200%;
+}
+
+#darth{
+    font-size: 400%;
+    text-align: center;
+}
+.apoyo{
+    text-align: center;
+    font-size: 200%;
+    background-color: red;
+}
+.Naves{
+    text-transform: uppercase;
+    text-align: center;
+    border: dashed;
+    background-color: red;
+    font-size: 200%;
+    letter-spacing: 8px;
+}
+.editTanque {
+    text-align: center;
+    border: dashed;
+    background-color: red;
+    font-size: 200%;
+}
+.imagen {
+    height: 200px;
+    width: auto;
+}
+.droides {
+    text-align: center;
+}
+#luke {
+    font-style: italic;
+    text-align: center;
+    font-size: 200%;
+}
+
+#espacioLetras{
+    letter-spacing: 10px;
+    text-align: center;
+    border: dashed;
+
+}
